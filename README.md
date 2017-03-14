@@ -1,6 +1,6 @@
 # Moving WKWebview frame causes part of it to become unresponsive
 
-### Manually editing `frame` in conjuntion with Autolayout
+### Manually editing `frame` in conjunction with Autolayout
 
 ![preview](https://i.stack.imgur.com/9jLgH.gif)
 
