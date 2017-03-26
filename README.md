@@ -10,7 +10,7 @@
 
 ### Stack Overflow Question 41291054
 
-Xcode project & source code related to [Use Autolayout](http://stackoverflow.com/a/41401447/218152) answer.
+Xcode project & source code related to [Use Autolayout](https://stackoverflow.com/questions/41291054/moving-wkwebview-frame-causes-part-of-it-to-become-unresponsive/41401447#41401447) answer.
 
 ---
 
@@ -20,6 +20,6 @@ Xcode project & source code related to [Use Autolayout](http://stackoverflow.com
 
 **References:**
 
-- [SO-41291054](http://stackoverflow.com/questions/41291054/swift-3-moving-wkwebview-frame-causes-part-of-it-to-become-unresponsive) on Stack Overflow
-- This and other answers posted on [Swift Recipes](http://swiftarchitect.com/recipes/)
+- Question [41291054](https://stackoverflow.com/questions/41291054) on Stack Overflow
+- This and other answers posted on [Swift Recipes](http://swiftarchitect.com/recipes)
 
